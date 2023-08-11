@@ -8,258 +8,203 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Myungjun (MJ) Son
+    tagline: Research Assistant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mjson (at) psu (dot) edu
+    phone: 
+    timezone: US Eastern Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: mjs8612
+    xing: 
+    github: mjaysonnnn
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: 
+    pdf: https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESy2Ibet1xZApm1cJqfA8YoBeUfe_mNZB-DqVQ0PxABJPA?e=Lj6HkZ
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    - idiom: English
+      level: Professional
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+    - idiom: Korean
+      level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Cloud Computing
           link:
 
-        - item: Snowboarding
+        - item: Serverless Computing
           link:
 
-        - item: Cooking
+        - item: Data Analytics
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello! I am a research professional with over 7 years of expertise in computer science, specifically focused on resource management in cloud environments. Currently, I am pursuing a Ph.D. degree in the same field while continuing to expand my knowledge and skills in this area.
+      
+      [CV](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EaalUqd0vmZMmhCAKVN3YtgB0pYyDbVOkkChU_CJl3-fXQ?e=Sab5eP) [Google Scholar](https://scholar.google.com/citations?user=QNswWa8AAAAJ&hl=ko&oi=ao)
+
+      **Recent News**
+      - [07/2023] - Presented the paper at IEEE CLOUD 2023!
+      - [06/2023] - Started summer internship at Takeda Pharmaceutical!
+      - [05/2023] - Paper accepted at IEEE CLOUD 2023!
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Ph.D. in Computer Science
+        university: The Pennsylvania State University, USA
+        time: 2019 - 2025 (expected)
+        
+      - degree: Master in Computer Science 
+        university: Kookmin University, South Korea
+        time: 2017 - 2019
+        
+      - degree: Bachelor in Computer Science 
+        university: Kookmin University, South Korea
+        time: 2010 - 2017
+      
 
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: R&D Summer Intern
+        time: May 2023 - Aug 2023
+        company: Takeda Pharmaceutical, Boston, Massachusetts, USA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked in the Digital Platforms team, focusing on utilizing AWS for data ingestion, cataloging, and analytics.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          - Reduced manual efforts through process optimization.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          - Enhanced overall system performance, leading to reduced AWS service expenses.
+
+          - Established and implemented higher standards for process standardization
+          
+      - role: Research Assistant
+        time: Aug 2019 - Present
+        company: Storage Laboratory, The Pennsylvania State University
+        details: |
+          Topic: efficiency of cloud and distributed systems. (Advisor: [Dr. Mahmut Kandemir](http://www.cse.psu.edu/hpcl/kandemir/index.html))      
+
+      - role: Cloud Assistant
+        time: Feb 2018 - Feb 2018
+        company: Samsung Electronics, Gyeonggi-do, South Korea
+        details: |
+          Assisted professor with instructing Cloud Computing course to 40 Samsung developers.       
+          
+          Course material includes AWS, Kubernetes, Hive, MongoDB, and Hadoop        
+
+      - role: Research Assistant
+        time: May 2016 - Aug 2019
+        company: Kookmin Bigdata Laboratory, Seoul
+        details: |
+          Topic: Cost-efficient data analytics platform on cloud. (Advisor: [Dr. Kyungyong Lee](http://leeky.me))      
+          
+
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MicroBlend - Automated cloud service selection for microservice-based applications
+        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
+        tagline: "Developed automated resource blending approach for microservice applications." 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Splice - Combining IaaS with FaaS (ppt)
+        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
+        tagline: "Designed compiler-driven automatic blended service framework." 
+                  
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ABC2 - Autonomic Big Data Cloud Computing research project (ppt)
+        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/ERUCCI65A_FAkUcoqtzQvOgBhMqXTEuaYX81b-RkK3EsDA?e=XzRbS9"
+        tagline: "Analyzed Machine Learning kernel (Matrix Multiplication) on cloud environments."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: DeepSpotCloud - Cost-efficient Deep Learning platform with cloud computing services (pdf)
+        link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESap9uuckPRHk2uZl9Qcoo4BMcUl6vtaVAyoFr-MHYyUnw?e=N8sJzv"
+        tagline: "Used EC2 GPU spot instances to build a cost-efficient deep learning framework."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+  title: Publications
+  # intro: |
+  #   You can list your publications in this section. Lorem ipsum dolor sit
+  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #   bibendum fringilla a eu lectus.
+  papers:            
+  
+    - title: MicroBlend - An Automated Service-Blending Framework for Microservice-Based Cloud Applications
+      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
+      authors: Myungjun Son, Shruti Mohanty, Jashwant Raj Gunasekaran, Mahmut Kandemir
+      conference: 2023 IEEE 16th International Conference on Cloud Computing (CLOUD) (Acceptance Rate - 21%)
+      
+    - title: Splice - An Automated Framework for Cost- and Performance-Aware Blending of Cloud Services
+      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
+      authors: Myungjun Son, Shruti Mohanty, Jashwant Raj Gunasekaran, Aman Jain, Mahmut Kandemir, George Kesidis, Bhuvan Urgaonkar
+      conference: The 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID 2022) (Acceptance Rate - 24%) 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: "Modeling Distributed Matrix Multiplication Performance on a Scale-out Cloud Environment for Data Mining Jobs"
+      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ETN-crccg85NrChcNaqrPhcBc3t5Bv8jnYZMVmJz7QgjIw?e=mc4671"
+      authors: Jeongchul Kim, Myungjun Son, Kyungyong Lee
+      conference: IEEE Transactions on Cloud Computing 2019
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing
+      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EavMyFtKF_dDrTfKMixyy6YBI1BsPreah6f3NSrz-n8O3Q?e=iKuIqp"
+      authors: Myungjun Son and Kyungyong Lee
+      conference: 2018 IEEE 11th International Conference on Cloud Computing (CLOUD)
+
+    - title: DeepSpotCloud - Leveraging Cross-Region GPU Spot Instances for Deep Learning
+      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESap9uuckPRHk2uZl9Qcoo4BMcUl6vtaVAyoFr-MHYyUnw?e=N8sJzv"
+      authors: Kyungyong Lee and Myungjun Son
+      conference: 2017 IEEE 10th International Conference on Cloud Computing (CLOUD) (Acceptance Rate - 19%)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Git & R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: AWS (Glue, Lambda, DynamoDB, etc.)
         level: 98%
 
-      - name: Angular
+      - name: Microsiervces, Prometheus, eBPF
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
