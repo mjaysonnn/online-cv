@@ -85,11 +85,8 @@ experiences:
         company: Takeda Pharmaceutical, Boston, Massachusetts, USA
         details: |
           Worked in the Digital Platforms team, focusing on utilizing AWS for data ingestion, cataloging, and analytics.
-
           - Reduced manual efforts through process optimization.
-
           - Enhanced overall system performance, leading to 25% reduction in AWS service expenses.
-
           - Established and implemented higher standards for process standardization
           
       - role: Research Assistant
@@ -121,7 +118,9 @@ projects:
     assignments:
       - title: MicroBlend - Automated cloud service selection for microservice-based applications
         link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
-        tagline: "Developed automated resource blending approach for microservice applications." 
+        tagline: "Developed automated resource blending approach for microservice applications. 9% reduction in SLO violations and 11% cost decrease. (Python)" 
+        
+        
 
       - title: Splice - Combining IaaS with FaaS (ppt)
         link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
