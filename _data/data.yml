@@ -196,7 +196,7 @@ skills:
       - name: Python & Git & R
         level: 98%
 
-      - name: AWS (Glue, Lambda, DynamoDB, etc.)
+      - name: AWS, Spark, Compiler
         level: 98%
 
       - name: Microsiervces, Prometheus, eBPF
