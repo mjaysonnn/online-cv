@@ -80,6 +80,13 @@ education:
 experiences:
     title: Work Experience
     info:
+
+    - role: Systems Architecture Lab
+        time: Jun 2024 - Aug 2024
+        company: Hewlett Packard Enterprise, Milpitas, California, USA
+        details: |
+          Worked at Hewlett Packard Labs, implementing a communication framework in a distributed HPC system using ZeroMQ and Mercury (C).
+          
       - role: R&D Summer Intern
         time: May 2023 - Aug 2023
         company: Takeda Pharmaceutical, Boston, Massachusetts, USA
