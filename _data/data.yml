@@ -81,7 +81,7 @@ experiences:
     title: Work Experience
     info:
 
-    - role: Systems Architecture Lab
+      - role: Systems Architecture Lab
         time: Jun 2024 - Aug 2024
         company: Hewlett Packard Enterprise, Milpitas, California, USA
         details: |
