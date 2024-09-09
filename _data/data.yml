@@ -57,9 +57,8 @@ career-profile:
       [CV](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EaalUqd0vmZMmhCAKVN3YtgB0pYyDbVOkkChU_CJl3-fXQ?e=Sab5eP) [Google Scholar](https://scholar.google.com/citations?user=QNswWa8AAAAJ&hl=ko&oi=ao)
 
       **Recent News**
-      - [08/2024] - Finished Research Associate Internship at Hewlett Packard Enterprise
-      - [07/2023] - Presented the paper at IEEE CLOUD 2023
-      - [06/2023] - Started summer internship at Takeda Pharmaceutical
+      - [09/2024] - Paper got accepted to 2024 ACM Middleware
+      
 
 education:
     title: Education
@@ -168,6 +167,10 @@ publications:
   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
   #   bibendum fringilla a eu lectus.
   papers:            
+    - title: SpotVerse - Enhancing Workflow Efficiency with Multi-Region Spot Instances for Galaxy and Beyond
+      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
+      authors: Myungjun Son, Gulsum Gudukbay, Mahmut Kandemir
+      conference: 25th ACM/IFIP International Middleware Conference (ACM Middleware) (Acceptance Rate - 23%)
   
     - title: MicroBlend - An Automated Service-Blending Framework for Microservice-Based Cloud Applications
       link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
