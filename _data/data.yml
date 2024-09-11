@@ -198,18 +198,18 @@ publications:
       authors: Kyungyong Lee and Myungjun Son
       conference: 2017 IEEE 10th International Conference on Cloud Computing (CLOUD) (Acceptance Rate - 19%)
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python & Git & R
-#         level: 98%
+    toolset:
+      - name: Cloud Computing, Serverless Computing, Distributed Systems
+        level: 100%
 
-#       - name: AWS, Spark, Compiler
-#         level: 98%
+      - name: Microservices, Machine Learning, Federated Learning
+        level: 100%
 
-#       - name: Microsiervces, Prometheus, eBPF
-#         level: 98%
+      - name: Design of Experiments, High-Performance Computing
+        level: 100%
 
 
 # footer: >
