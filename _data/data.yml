@@ -54,12 +54,10 @@ career-profile:
     summary: |
       Hello! I am a research professional with 7+ years of experience in computer science, specializing in resource management in cloud environments. I am currently pursuing a Ph.D. in this field
       
-      
+      [CV](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EeSZj7pMwwRNtSQkD8BLrp4BwqnwTy4WoM7iB0mObHKliw?e=7qOGea)
       [Google Scholar](https://scholar.google.com/citations?hl=en&user=QNswWa8AAAAJ)
-      
       **Recent News**
-      - [09/2024] - Paper accepted to 2024 ACM Middleware 
-      - [09/2024] - Paper accepted to 2024 ACM SoCC
+      - [09/2024] - Paper accepted to 2024 ACM Middleware
       - [08/2024] - Finished summer internship at Hewlett Packard Enterprise
       
 education:
@@ -169,11 +167,6 @@ publications:
       link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
       authors: Myungjun Son, Gulsum Gudukbay, Mahmut Kandemir
       conference: 25th ACM/IFIP International Middleware Conference (ACM Middleware) (Acceptance Rate - 23%)
-
-    - title: FAAStloop: Optimizing Loop-Based Applications for Serverless Computing
-      link: "https://acmsocc.org/2024/schedule.html"
-      authors: Shruti Mohanty, Vivek M. Bhasi, Myungjun Son, Mahmut Kandemir, Chita Das
-      conference: 15th ACM Symposium on Cloud Computing (ACM SoCC) 
 
     - title: MicroBlend - An Automated Service-Blending Framework for Microservice-Based Cloud Applications
       link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
