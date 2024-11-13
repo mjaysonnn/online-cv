@@ -55,6 +55,7 @@ career-profile:
       Ph.D. candidate in Computer Science with expertise in distributed systems and cloud optimization. Skilled in AWS, Python, and machine learning frameworks, with a track record of driving cost-efficient and high-performance solutions in cloud-native environments. Seeking internship opportunities to leverage cloud computing and distributed systems expertise.
       
       [Google Scholar](https://scholar.google.com/citations?hl=en&user=QNswWa8AAAAJ)
+
       **Recent News**
       - [09/2024] - Paper accepted to 2024 ACM Middleware
       - [09/2024] - Paper accepted to 2024 ACM SoCC
@@ -84,14 +85,15 @@ experiences:
         time: Jun 2024 - Aug 2024
         company: Hewlett Packard Enterprise, Milpitas, California, USA
         details: |
-          Worked in Systems Architecture Lab at Hewlett Packard Labs, implementing a communication framework in a distributed HPC system using ZeroMQ and Mercury (implemented in C).
+          - Collaborated with the Systems Architecture Lab at Hewlett Packard Labs to enhance performance and scalability in distributed HPC systems.
+          - Developed a communication framework for distributed HPC systems using ZeroMQ and Mercury in C, contributing to more efficient data handling across nodes.
           
       - role: R&D Summer Intern
         time: May 2023 - Aug 2023
         company: Takeda Pharmaceutical, Boston, Massachusetts, USA
         details: |
-          Worked in Digital Platforms team and reduced manual efforts through optimizing and automating data pipeline, leveraging AWS services.
-          - Enhanced overall system performance, leading to 25% reduction of AWS cost.
+          - Optimized and automated data pipelines in collaboration with the Digital Platforms team, reducing manual processing through AWS analytics tools.
+          - Improved system performance, achieving a 25\% reduction in operational costs through data-driven optimizations.
           
           
       - role: Research Assistant
