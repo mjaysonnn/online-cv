@@ -96,22 +96,22 @@ experiences:
           - Improved system performance, achieving a 25\% reduction in operational costs through data-driven optimizations.
           
           
-      - role: Research Assistant
-        time: Aug 2019 - Present
-        company: Storage Laboratory, The Pennsylvania State University
-        details: |
-          Topic: efficiency of cloud and distributed systems. (Advisor: [Dr. Mahmut Kandemir](http://www.cse.psu.edu/hpcl/kandemir/index.html))      
-      - role: Cloud Assistant
-        time: Feb 2018 - Feb 2018
-        company: Samsung Electronics, Gyeonggi-do, South Korea
-        details: |
-          Assisted professor with instructing Cloud Computing course to 40 Samsung developers.                 
-          - Course material includes AWS, Kubernetes, Hive, MongoDB, and Hadoop        
-      - role: Research Assistant
-        time: May 2016 - Aug 2019
-        company: Kookmin Bigdata Laboratory, Seoul
-        details: |
-          Topic: Cost-efficient data analytics platform on cloud. (Advisor: [Dr. Kyungyong Lee](http://leeky.me))      
+      # - role: Research Assistant
+      #   time: Aug 2019 - Present
+      #   company: Storage Laboratory, The Pennsylvania State University
+      #   details: |
+      #     Topic: efficiency of cloud and distributed systems. (Advisor: [Dr. Mahmut Kandemir](http://www.cse.psu.edu/hpcl/kandemir/index.html))      
+      # - role: Cloud Assistant
+      #   time: Feb 2018 - Feb 2018
+      #   company: Samsung Electronics, Gyeonggi-do, South Korea
+      #   details: |
+      #     Assisted professor with instructing Cloud Computing course to 40 Samsung developers.                 
+      #     - Course material includes AWS, Kubernetes, Hive, MongoDB, and Hadoop        
+      # - role: Research Assistant
+      #   time: May 2016 - Aug 2019
+      #   company: Kookmin Bigdata Laboratory, Seoul
+      #   details: |
+      #     Topic: Cost-efficient data analytics platform on cloud. (Advisor: [Dr. Kyungyong Lee](http://leeky.me))      
           
 # projects:
 #     title: Projects
