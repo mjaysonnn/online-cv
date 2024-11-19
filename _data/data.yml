@@ -113,27 +113,27 @@ experiences:
         details: |
           Topic: Cost-efficient data analytics platform on cloud. (Advisor: [Dr. Kyungyong Lee](http://leeky.me))      
           
-projects:
-    title: Projects
-    intro: >
+# projects:
+#     title: Projects
+#     intro: >
       
-    assignments:
-      - title: MicroBlend - Automated cloud service selection for microservice-based applications
-        link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESS7KgPd5kZEmSCzV1quQh4BeD5eUPeFk_9-h3Cl5QunQQ?e=z63DyA"
-        tagline: "Developed automated resource blending approach for microservice applications. (9% reduction in SLO violations and 11% cost decrease)" 
+#     assignments:
+#       - title: MicroBlend - Automated cloud service selection for microservice-based applications
+#         link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESS7KgPd5kZEmSCzV1quQh4BeD5eUPeFk_9-h3Cl5QunQQ?e=z63DyA"
+#         tagline: "Developed automated resource blending approach for microservice applications. (9% reduction in SLO violations and 11% cost decrease)" 
 
-      - title: Splice - Combining IaaS with FaaS (ppt)
-        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
-        tagline: "Designed compiler-driven automatic blended service framework. (32% reduction in cost)" 
+#       - title: Splice - Combining IaaS with FaaS (ppt)
+#         link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
+#         tagline: "Designed compiler-driven automatic blended service framework. (32% reduction in cost)" 
 
 
-      - title: ABC2 - Autonomic Big Data Cloud Computing research project (ppt)
-        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/ERUCCI65A_FAkUcoqtzQvOgBhMqXTEuaYX81b-RkK3EsDA?e=XzRbS9"
-        tagline: "Analyzed Machine Learning kernel (Matrix Multiplication) on cloud environments. (MatMul performance model on Spark with 50% reduction in accuracy error)"
+#       - title: ABC2 - Autonomic Big Data Cloud Computing research project (ppt)
+#         link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/ERUCCI65A_FAkUcoqtzQvOgBhMqXTEuaYX81b-RkK3EsDA?e=XzRbS9"
+#         tagline: "Analyzed Machine Learning kernel (Matrix Multiplication) on cloud environments. (MatMul performance model on Spark with 50% reduction in accuracy error)"
 
-      - title: DeepSpotCloud - Cost-efficient Deep Learning platform with cloud computing services (pdf)
-        link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESap9uuckPRHk2uZl9Qcoo4BMcUl6vtaVAyoFr-MHYyUnw?e=N8sJzv"
-        tagline: "Used EC2 GPU spot instances to build a cost-efficient deep learning framework. (task migration scheduling policy with 13% more cost gain) "
+#       - title: DeepSpotCloud - Cost-efficient Deep Learning platform with cloud computing services (pdf)
+#         link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESap9uuckPRHk2uZl9Qcoo4BMcUl6vtaVAyoFr-MHYyUnw?e=N8sJzv"
+#         tagline: "Used EC2 GPU spot instances to build a cost-efficient deep learning framework. (task migration scheduling policy with 13% more cost gain) "
 
       # - title: Delta
       #   link: "#"
