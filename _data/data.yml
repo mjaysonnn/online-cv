@@ -57,9 +57,9 @@ career-profile:
       [Google Scholar](https://scholar.google.com/citations?hl=en&user=QNswWa8AAAAJ)
 
       **Recent News**
-      - [07/2025] - Passed Dissertation!
-      - [05/2025] - Passed PhD Defense!
-      - [02/2025] - Accepted HPE Return Offer!
+      - [07/2025] - Passed Dissertation & Upcoming Graduation.
+      - [05/2025] - Passed PhD Defense.
+      - [02/2025] - Accepted HPE Return Offer.
       
       
       
@@ -87,10 +87,10 @@ experiences:
         time: Jun 2025 - Sep 2025
         company: Hewlett-Packard Enterprise, Milpitas, California, USA
         details: |
-          - Extending the communication framework for distributed HPC systems using ZeroMQ and Mercury in C.
+          - 
           
-      - role: Systems Architecture Lab
-        time: Jun 2024 - Aug 2024
+      - role: Research Associate Intern
+        time: May 2025 - Aug 2025
         company: Hewlett-Packard Enterprise, Milpitas, California, USA
         details: |
           - Collaborated with the Systems Architecture Lab at Hewlett-Packard Labs to enhance performance and scalability in distributed HPC systems.
