@@ -180,7 +180,7 @@ publications:
 
     - title: A Global In-Memory Cache and Computation Tier for DAOS
       authors: J. Byrne, C. Crasta, ..., Myungjun Son, et al.      
-      conference: The 9th International Parallel Data Systems Workshop (PDSW’24)
+      conference: The 9th International Parallel Data Systems Workshop (PDSW’24 in conjunction with SC24)
 
     - title: FAAStloop - Optimizing Loop-Based Applications for Serverless Computing
       link: "https://acmsocc.org/2024/schedule.html"
