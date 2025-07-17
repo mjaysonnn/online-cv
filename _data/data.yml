@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Myungjun (MJ) Son
-    tagline: Ph.D. Candidate
+    tagline: Ph.D. 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -87,7 +87,7 @@ experiences:
         time: Jun 2025 - Sep 2025
         company: Hewlett-Packard Enterprise, Milpitas, California, USA
         details: |
-          - 
+          - Working in Systems Architecture Lab
           
       - role: Research Associate Intern
         time: May 2025 - Aug 2025
@@ -177,6 +177,10 @@ publications:
       link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
       authors: Myungjun Son, Gulsum Gudukbay, Mahmut Kandemir
       conference: 25th ACM/IFIP International Middleware Conference (ACM Middleware) (Acceptance Rate - 23%)
+
+    - title: A Global In-Memory Cache and Computation Tier for DAOS
+      authors: J. Byrne, C. Crasta, ..., Myungjun Son, et al.      
+      conference: The 9th International Parallel Data Systems Workshop (PDSW’24)
 
     - title: FAAStloop - Optimizing Loop-Based Applications for Serverless Computing
       link: "https://acmsocc.org/2024/schedule.html"
