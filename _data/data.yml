@@ -138,6 +138,16 @@ projects:
         tagline: "Created a compiler-driven framework for service blending between FaaS and IaaS, reducing workload costs by 32% via optimized workload distribution. (Python, Serverless, Compiler)"
         time: "Aug 2019 -- Aug 2022"
 
+      - title: ABC2 - Autonomic Big Data Cloud Computing
+        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/ERUCCI65A_FAkUcoqtzQvOgBhMqXTEuaYX81b-RkK3EsDA?e=XzRbS9"
+        tagline: "Analyzed machine learning kernels (Matrix Multiplication) in cloud environments to develop performance model. Reduced matrix multiplication error by 50% using Spark-based distributed computing. (Python, Spark)"
+        time: "Mar 2017 -- Aug 2019"
+
+      - title: DeepSpotCloud
+        link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESap9uuckPRHk2uZl9Qcoo4BMcUl6vtaVAyoFr-MHYyUnw?e=N8sJzv"
+        tagline: "Built a deep learning framework leveraging EC2 GPU spot instances across regions to optimize training costs. Developed a task migration scheduling policy, resulting in a 13% additional cost savings. (Python, Bash, AWS, TensorFlow)"
+        time: "Dec 2016 -- Mar 2017"
+
 # oss:
 #     title: Projects
 #     intro: >
