@@ -40,26 +40,27 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Distributed Systems
+          link:
+
+        - item: HPC
+          link:
+
         - item: Cloud Computing
-          link:
-
-        - item: Serverless Computing
-          link:
-
-        - item: Data Analytics
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Ph.D. in Computer Science with expertise in distributed systems and cloud optimization. Skilled in AWS, Python, and machine learning frameworks, with a track record of driving cost-efficient and high-performance solutions in cloud-native environments. Seeking full-time opportunities to leverage cloud computing and distributed systems expertise.
+      Ph.D. in Computer Science with expertise in distributed systems and cloud optimization. Skilled in Python, machine learning frameworks, and high-performance computing (HPC), with a track record of driving cost-efficient, high-performance solutions in cloud-native environments.
       
       [Google Scholar](https://scholar.google.com/citations?hl=en&user=QNswWa8AAAAJ)
 
       **Recent News**
-      - [07/2025] - Passed Dissertation & Upcoming Graduation.
+      - [08/2025] - Officially graduated with PhD.
+      - [06/2025] - Started HPC Research Associate Internship at HPE.
       - [05/2025] - Passed PhD Defense.
-      - [02/2025] - Accepted HPE Return Offer.
+      
       
       
       
@@ -68,15 +69,11 @@ education:
     info:
       - degree: Ph.D. in Computer Science
         university: The Pennsylvania State University, USA
-        time: 2019 - 2025 (expected)
+        time: 2019 - 2025
 
-      - degree: Master in Computer Science 
+      - degree: Master & Bachelor in Computer Science 
         university: Kookmin University, South Korea
-        time: 2017 - 2019
-
-      - degree: Bachelor in Computer Science 
-        university: Kookmin University, South Korea
-        time: 2010 - 2017
+        time: 2010 - 2019
 
 
 experiences:
@@ -85,23 +82,23 @@ experiences:
 
       - role: Research Associate Intern
         time: Jun 2025 - Sep 2025
-        company: Hewlett-Packard Enterprise, Milpitas, California, USA
+        company: Hewlett Packard Enterprise, Milpitas, CA, USA
         details: |
-          - Working in Systems Architecture Lab
+          - Collaborated with Hewlett Packard Labs' Systems Architecture Lab to advance distributed systems research and development.
           
       - role: Research Associate Intern
-        time: May 2025 - Aug 2025
-        company: Hewlett-Packard Enterprise, Milpitas, California, USA
+        time: May 2024 - Aug 2024
+        company: Hewlett Packard Enterprise, Milpitas, CA, USA
         details: |
-          - Collaborated with the Systems Architecture Lab at Hewlett-Packard Labs to enhance performance and scalability in distributed HPC systems.
-          - Developed a communication framework for distributed HPC systems using ZeroMQ and Mercury in C, contributing to more efficient data handling across nodes.
+          - Engineered performance and scalability enhancements for distributed HPC systems in collaboration with Hewlett Packard Labs.
+          - Designed and implemented a communication framework for distributed HPC systems using ZeroMQ and Mercury in C, improving data handling efficiency across nodes.
           
       - role: R&D Summer Intern
         time: May 2023 - Aug 2023
-        company: Takeda Pharmaceutical, Boston, Massachusetts, USA
+        company: Takeda Pharmaceutical, Boston, MA, USA
         details: |
-          - Optimized and automated data pipelines in collaboration with the Digital Platforms team, reducing manual processing through AWS analytics tools.
-          - Improved system performance, achieving a 25\% reduction in operational costs through data-driven optimizations.
+          - Led optimization and automation of data pipelines with the Digital Platforms team, cutting manual processing using AWS analytics tools.
+          - Delivered system performance improvements resulting in a 25% reduction in operational costs via data-driven optimizations.
           
           
       # - role: Research Assistant
@@ -121,7 +118,27 @@ experiences:
       #   details: |
       #     Topic: Cost-efficient data analytics platform on cloud. (Advisor: [Dr. Kyungyong Lee](http://leeky.me))      
           
-# projects:
+projects:
+    title: Projects
+    intro: >
+      
+    assignments:
+      - title: SpotVerse
+        link: ""
+        tagline: "Engineered multi-region spot instance provisioning for bioinformatics workflows using AWS CloudFormation, reducing compute costs by 55%. (Python, Bash, CloudFormation)"
+        time: "Jul 2023 -- Dec 2023"
+
+      - title: MicroBlend
+        link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/ESS7KgPd5kZEmSCzV1quQh4BeD5eUPeFk_9-h3Cl5QunQQ?e=z63DyA"
+        tagline: "Architected an automated resource blending system for microservices, cutting SLO violations by 9% and lowering costs by 11% through telemetry-driven resource allocation. (Python, Microservices, eBPF, Prometheus, Grafana, Jaeger)"
+        time: "Aug 2022 -- Jul 2023"
+
+      - title: Splice
+        link: "https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/mjs8014_psu_edu/EQrQCauyHbdFmX9lZVBlb9gB-Fd1u9XAklEwcymvV69Zqg?e=n3Kccy"
+        tagline: "Created a compiler-driven framework for service blending between FaaS and IaaS, reducing workload costs by 32% via optimized workload distribution. (Python, Serverless, Compiler)"
+        time: "Aug 2019 -- Aug 2022"
+
+# oss:
 #     title: Projects
 #     intro: >
       
@@ -216,14 +233,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Cloud Computing, Serverless Computing, Distributed Systems
+      - name: Core Expertise - Distributed Systems, Cloud Computing, High-Performance Computing (HPC), Machine Learning
         level: 100%
 
-      - name: Microservices, Machine Learning, Federated Learning
-        level: 100%
+      - name: Programming Languages - Python, C, SQL, Bash
+        level: 95%
 
-      - name: Design of Experiments, High-Performance Computing
-        level: 100%
+      - name: Cloud & Infrastructure - AWS, Docker, Kubernetes, ParallelCluster, Slurm, CloudFormation, Ansible
+        level: 90%
+
+      - name: Distributed Systems & HPC - ZeroMQ, Mercury, gRPC, Microservices, ETL Pipelines
+        level: 90%
+
+      - name: Machine Learning & Analytics - TensorFlow, PyTorch, Spark, Federated Learning, Flower
+        level: 85%
+
+      - name: Development & Monitoring - FastAPI, Git, Prometheus, Grafana, Jaeger, eBPF
+        level: 85%
 
 
 # footer: >
