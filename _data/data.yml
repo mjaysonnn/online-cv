@@ -245,27 +245,27 @@ publications:
       authors: Kyungyong Lee and Myungjun Son
       conference: 2017 IEEE 10th International Conference on Cloud Computing (CLOUD) (Acceptance Rate - 19%)
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Core Expertise - Distributed Systems, Cloud Computing, High-Performance Computing (HPC), Machine Learning
-#         level: 100%
+    toolset:
+      - name: Core Expertise - Distributed Systems, Cloud Computing, High-Performance Computing (HPC), Machine Learning
+        level: 100%
 
-#       - name: Programming Languages - Python, C, SQL, Bash
-#         level: 95%
+      - name: Programming Languages - Python, C, C++, SQL, Bash
+        level: 95%
 
-#       - name: Cloud & Infrastructure - AWS, Docker, Kubernetes, ParallelCluster, Slurm, CloudFormation, Ansible
-#         level: 90%
+      - name: Cloud & Infrastructure - AWS (EC2, S3, Lambda), Docker, Kubernetes, ParallelCluster, Slurm, CloudFormation, Terraform, Ansible
+        level: 90%
 
-#       - name: Distributed Systems & HPC - ZeroMQ, Mercury, gRPC, Microservices, ETL Pipelines
-#         level: 90%
+      - name: Distributed Systems & HPC - ZeroMQ, Mercury, gRPC, MPI, DAOS, Microservices, ETL Pipelines, Parallel I/O
+        level: 90%
 
-#       - name: Machine Learning & Analytics - TensorFlow, PyTorch, Spark, Federated Learning, Flower
-#         level: 85%
+      - name: Machine Learning & Analytics - TensorFlow, PyTorch, Spark, Federated Learning, Flower
+        level: 85%
 
-#       - name: Development & Monitoring - FastAPI, Git, Prometheus, Grafana, Jaeger, eBPF
-#         level: 85%
+      - name: Development & Monitoring - FastAPI, Git, Prometheus, Grafana, Jaeger, eBPF
+        level: 85%
 
 
 # footer: >
