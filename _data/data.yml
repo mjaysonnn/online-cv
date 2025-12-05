@@ -15,8 +15,8 @@ sidebar:
     # Sidebar links
     email: mjs8612 (at) gmail (dot) com
     phone: 
-    timezone: US Eastern Timezone
-    citizenship: 
+    timezone: US Pacific Timezone
+    citizenship:
     website: 
     linkedin: mjs8612
     xing: 
@@ -90,13 +90,13 @@ experiences:
         time: Jun 2025 - Sep 2025
         company: Hewlett Packard Enterprise, Milpitas, CA, USA
         details: |
-          - Collaborated with Hewlett Packard Labs' Systems Architecture Lab to advance distributed systems research and development.
+          - Collaborated with Hewlett Packard Enterprise Labs' Systems Architecture Lab to advance distributed systems research and development.
           
       - role: Research Associate Intern
         time: May 2024 - Aug 2024
         company: Hewlett Packard Enterprise, Milpitas, CA, USA
         details: |
-          - Engineered performance and scalability enhancements for distributed HPC systems in collaboration with Hewlett Packard Labs.
+          - Engineered performance and scalability enhancements for distributed HPC systems in collaboration with Hewlett Packard Enterprise Labs.
           - Designed and implemented a communication framework for distributed HPC systems using ZeroMQ and Mercury in C, improving data handling efficiency across nodes.
           
       - role: R&D Summer Intern
