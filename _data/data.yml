@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Myungjun (MJ) Son
-    tagline: Ph.D. 
+    tagline: Postdoctoral Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,9 +57,9 @@ career-profile:
       [Google Scholar](https://scholar.google.com/citations?hl=en&user=QNswWa8AAAAJ)
 
       **Recent News**
+      - [10/2025] - Started Postdoctoral Researcher position at HPE.
       - [08/2025] - Officially graduated with PhD.
       - [06/2025] - Started Research Associate Internship at HPE.
-      - [05/2025] - Passed PhD Defense.
       
       
       
@@ -79,6 +79,12 @@ education:
 experiences:
     title: Work Experience
     info:
+
+      - role: Postdoctoral Researcher
+        time: Oct 2025 - Present
+        company: Hewlett Packard Enterprise, Milpitas, CA, USA
+        details: |
+          - Conducting advanced research in distributed systems and high-performance computing at Hewlett Packard Enterprise Labs.
 
       - role: Research Associate Intern
         time: Jun 2025 - Sep 2025
@@ -124,7 +130,7 @@ projects:
       
     assignments:
       - title: SpotVerse
-        link: ""
+        link: "https://dl.acm.org/doi/10.1145/3652892.3700750"
         tagline: "Engineered multi-region spot instance provisioning for bioinformatics workflows using AWS CloudFormation, reducing compute costs by 55%. (Python, Bash, CloudFormation)"
         time: "Jul 2023 -- Dec 2023"
 
