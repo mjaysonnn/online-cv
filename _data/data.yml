@@ -16,7 +16,7 @@ sidebar:
     email: mjs8612 (at) gmail (dot) com
     phone: 
     timezone: US Pacific Timezone
-    citizenship:
+    citizenship: Green Card Holder
     website: 
     linkedin: mjs8612
     xing: 
@@ -62,9 +62,6 @@ career-profile:
       - [03/2026] - Workshop paper accepted at CCGrid Workshop.
       - [08/2025] - Officially graduated with PhD.
       
-      
-      
-      
 education:
     title: Education
     info:
@@ -86,8 +83,9 @@ experiences:
       - role: Research Engineer III
         time: Oct 2025 - Present
         company: Systems Architecture Lab, Hewlett Packard Enterprise, Milpitas, CA, USA
-        # details: |
-        #   - Conducting advanced research in distributed systems and high-performance computing at Hewlett Packard Enterprise Labs.
+        details: |
+          - Designing and implementing a runtime for high-performance distributed data processing.
+          - Collaborating with researchers across HPE Labs to validate system performance.
 
       - role: Research Associate Intern
         time: Jun 2025 - Sep 2025
@@ -138,7 +136,7 @@ publications:
       conference: FL-RCE 2026 Workshop on Federated Learning for Resource Constraint Environments (Co-located with IEEE/ACM CCGrid 2026)
             
     - title: SpotVerse - Enhancing Workflow Efficiency with Multi-Region Spot Instances for Galaxy and Beyond
-      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
+      link: "https://dl.acm.org/doi/abs/10.1145/3652892.3700750"
       authors: Myungjun Son, Gulsum Gudukbay, Mahmut Kandemir
       conference: 25th ACM/IFIP International Middleware Conference (ACM Middleware) (Acceptance Rate - 23%)
 
@@ -152,7 +150,7 @@ publications:
       conference: 15th ACM Symposium on Cloud Computing (ACM SoCC)
 
     - title: MicroBlend - An Automated Service-Blending Framework for Microservice-Based Cloud Applications
-      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
+      link: "https://ieeexplore.ieee.org/abstract/document/10254987/"
       authors: Myungjun Son, Shruti Mohanty, Jashwant Raj Gunasekaran, Mahmut Kandemir
       conference: 2023 IEEE 16th International Conference on Cloud Computing (CLOUD) (Acceptance Rate - 21%)
 
