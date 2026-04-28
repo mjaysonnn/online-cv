@@ -16,7 +16,7 @@ sidebar:
     email: mjs8612 (at) gmail (dot) com
     phone: 
     timezone: US Pacific Timezone
-    citizenship: Green Card Holder
+    citizenship: U.S. Permanent Resident
     website: 
     linkedin: mjs8612
     xing: 
@@ -69,7 +69,7 @@ education:
         university: The Pennsylvania State University, USA
         time: 2019 - 2025
         details: |
-          Advisor: [Dr. Mahmut Kandemir](http://www.cse.psu.edu/hpcl/kandemir/index.html)
+          Advisor: [Dr. Mahmut Kandemir](https://www.cse.psu.edu/hpcl/kandemir/index.html)
 
       - degree: M.S. in Computer Science
         university: Kookmin University, South Korea
@@ -87,17 +87,11 @@ experiences:
           - Designing and implementing a runtime for high-performance distributed data processing.
           - Collaborating with researchers across HPE Labs to validate system performance.
 
-      - role: Research Associate Intern
-        time: Jun 2025 - Sep 2025
-        company: Systems Architecture Lab, Hewlett Packard Enterprise, Milpitas, CA, USA
-        # details: |
-        #   - Collaborated with Hewlett Packard Enterprise Labs' Systems Architecture Lab to advance distributed systems research and development.
-          
-      - role: Research Associate Intern
-        time: May 2024 - Aug 2024
+      - role: Research Associate Intern (2 Terms)
+        time: May 2024 - Aug 2024, Jun 2025 - Sep 2025
         company: Systems Architecture Lab, Hewlett Packard Enterprise, Milpitas, CA, USA
         details: |
-          - Designed and implemented a communication framework for distributed HPC systems using ZeroMQ and Mercury in C, improving data handling efficiency across nodes.
+          - Designed, implemented, and extracted a standalone communication framework for distributed systems.
           
       - role: R&D Summer Intern
         time: May 2023 - Aug 2023
@@ -145,7 +139,7 @@ publications:
       conference: The 9th International Parallel Data Systems Workshop (PDSW’24 in conjunction with SC24)
 
     - title: FAAStloop - Optimizing Loop-Based Applications for Serverless Computing
-      link: "https://acmsocc.org/2024/schedule.html"
+      link: "https://dl.acm.org/doi/abs/10.1145/3698038.3698560"
       authors: Shruti Mohanty, Vivek M. Bhasi, Myungjun Son, Mahmut Kandemir, Chita Das
       conference: 15th ACM Symposium on Cloud Computing (ACM SoCC)
 
@@ -155,7 +149,7 @@ publications:
       conference: 2023 IEEE 16th International Conference on Cloud Computing (CLOUD) (Acceptance Rate - 21%)
 
     - title: Splice - An Automated Framework for Cost- and Performance-Aware Blending of Cloud Services
-      link: "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mjs8014_psu_edu/EVjQ42xD_3ZPmrVnmrWoe7UBdnJnsORTM2miEAaTp6jE9Q?e=W6UFDc"
+      link: "https://ieeexplore.ieee.org/abstract/document/9825969/"
       authors: Myungjun Son, Shruti Mohanty, Jashwant Raj Gunasekaran, Aman Jain, Mahmut Kandemir, George Kesidis, Bhuvan Urgaonkar
       conference: The 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID 2022) (Acceptance Rate - 24%) 
 
